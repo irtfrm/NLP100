@@ -6,6 +6,9 @@ http://www.cl.ecei.tohoku.ac.jp/nlp100/ に挑戦中
 [第1章](/README.md#第1章)・[第2章](/README.md#第2章)・[第3章](/README.md#第3章)・[第4章](/README.md#第4章)・[第5章](/README.md#第5章)・[第6章](/README.md#第6章)・[第7章](/README.md#第7章)・[第8章](/README.md#第8章)・[第9章](/README.md#第9章)・[第10章](/README.md#第10章)
 
 ## [第1章](https://github.com/irtfrm/NLP100/tree/master/ch1)
+> 準備運動:   
+> テキストや文字列を扱う題材に取り組みながら，プログラミング言語のやや高度なトピックを復習します．   
+> (文字列, ユニコード, リスト型, 辞書型, 集合型, イテレータ, スライス, 乱数)
 - [x] [問題00 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q00.py)
 - [x] [問題01 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q01.py)
 - [x] [問題02 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q02.py)
@@ -18,6 +21,9 @@ http://www.cl.ecei.tohoku.ac.jp/nlp100/ に挑戦中
 - [x] [問題09 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q09.py)
 
 ## [第2章](https://github.com/irtfrm/NLP100/tree/master/ch2)
+> UNIXコマンドの基礎:  
+> 研究やデータ分析において便利なUNIXツールを体験します．これらの再実装を通じて，プログラミング能力を高めつつ，既存のツールのエコシステムを体感します．  
+> (head, tail, cut, paste, split, sort, uniq, sed, tr, expand)
 - [x] [問題10 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q10.py)
 - [x] [問題11 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q11.py)
 - [x] [問題12 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q12.py)
