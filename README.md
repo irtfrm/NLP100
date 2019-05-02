@@ -28,9 +28,9 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題11 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q11.py)
 - [x] [問題12 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q12.py)
 - [x] [問題13 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q13.py)
-- [ ] 問題14
-- [ ] 問題15
-- [ ] 問題16
+- [x] [問題14 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q14.py)
+- [x] [問題15 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q15.py)
+- [x] [問題16 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q16.py)
 - [ ] 問題17
 - [ ] 問題18
 - [ ] 問題19
