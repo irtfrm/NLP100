@@ -1,6 +1,6 @@
 ## What's this repository
 
-http://www.cl.ecei.tohoku.ac.jp/nlp100/ に挑戦中
+Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/) に挑戦中
 
 ### 目次
 [第1章](/README.md#第1章)・[第2章](/README.md#第2章)・[第3章](/README.md#第3章)・[第4章](/README.md#第4章)・[第5章](/README.md#第5章)・[第6章](/README.md#第6章)・[第7章](/README.md#第7章)・[第8章](/README.md#第8章)・[第9章](/README.md#第9章)・[第10章](/README.md#第10章)
