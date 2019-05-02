@@ -1,21 +1,22 @@
 http://www.cl.ecei.tohoku.ac.jp/nlp100/ に挑戦中
 
+
 ## [第1章](https://github.com/irtfrm/NLP100/tree/master/ch1)
-- [x] 問題00 : 2019/05/02
-- [x] 問題01 : 2019/05/02
-- [x] 問題02 : 2019/05/02
-- [x] 問題03 : 2019/05/02
-- [x] 問題04 : 2019/05/02
-- [x] 問題05 : 2019/05/02
-- [x] 問題06 : 2019/05/02
-- [x] 問題07 : 2019/05/02
-- [x] 問題08 : 2019/05/02
-- [x] 問題09 : 2019/05/02
+- [x] [問題00 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q00.py)
+- [x] [問題01 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q01.py)
+- [x] [問題02 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q02.py)
+- [x] [問題03 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q03.py)
+- [x] [問題04 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q04.py)
+- [x] [問題05 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q05.py)
+- [x] [問題06 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q06.py)
+- [x] [問題07 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q07.py)
+- [x] [問題08 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q08.py)
+- [x] [問題09 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q09.py)
 
 ## [第2章](https://github.com/irtfrm/NLP100/tree/master/ch2)
-- [x] 問題10 : 2019/05/03
-- [x] 問題11 : 2019/05/03
-- [x] 問題12 : 2019/05/03
+- [x] [問題10 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q10.py)
+- [x] [問題11 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q11.py)
+- [x] [問題12 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q12.py)
 - [ ] 問題13
 - [ ] 問題14
 - [ ] 問題15
