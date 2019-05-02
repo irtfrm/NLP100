@@ -11,7 +11,7 @@ http://www.cl.ecei.tohoku.ac.jp/nlp100/ に挑戦中
 - [x] 問題07 : 2019/05/02
 - [x] 問題08 : 2019/05/02
 - [x] 問題09 : 2019/05/02
-## 第2章
+## [第2章](https://github.com/irtfrm/NLP100/tree/master/ch2))
 - [ ] 問題10
 - [ ] 問題11
 - [ ] 問題12
