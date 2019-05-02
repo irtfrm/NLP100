@@ -17,7 +17,7 @@ http://www.cl.ecei.tohoku.ac.jp/nlp100/ に挑戦中
 - [x] [問題10 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q10.py)
 - [x] [問題11 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q11.py)
 - [x] [問題12 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q12.py)
-- [x] [問題13 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch1/q13.py)
+- [x] [問題13 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q13.py)
 - [ ] 問題14
 - [ ] 問題15
 - [ ] 問題16

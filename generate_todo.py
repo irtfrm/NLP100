@@ -1,9 +1,10 @@
 import datetime
 
-start = 13
-end = 14
+start, end = map(int, input().split())
+end += 1
 
 today = str(datetime.date.today()).replace('-', '/')
 
 for i in range(start, end):
-    print("- [x] [問題%02d : %s](https://github.com/irtfrm/NLP100/blob/master/ch1/q%02d.py)" % (i, today, i))
+    N = i // 10 + 1
+    print("- [x] [問題%02d : %s](https://github.com/irtfrm/NLP100/blob/master/ch%d/q%02d.py)" % (i, today, N, i))
