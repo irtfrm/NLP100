@@ -125,4 +125,4 @@ http://www.cl.ecei.tohoku.ac.jp/nlp100/ に挑戦中
 - [ ] 問題98
 - [ ] 問題99
 
-[一番上へ](/README.md)
+[一番上へ](/README.md#whats-this-repository)
