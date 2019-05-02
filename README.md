@@ -1,12 +1,12 @@
 ## What's this repository
 
-Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/) に挑戦中
+Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)に挑戦中
 
 ### 目次
 [第1章](/README.md#第1章)・[第2章](/README.md#第2章)・[第3章](/README.md#第3章)・[第4章](/README.md#第4章)・[第5章](/README.md#第5章)・[第6章](/README.md#第6章)・[第7章](/README.md#第7章)・[第8章](/README.md#第8章)・[第9章](/README.md#第9章)・[第10章](/README.md#第10章)
 
 ## [第1章](https://github.com/irtfrm/NLP100/tree/master/ch1)
-> 準備運動:   
+> 準備運動   
 > テキストや文字列を扱う題材に取り組みながら，プログラミング言語のやや高度なトピックを復習します．   
 > (文字列, ユニコード, リスト型, 辞書型, 集合型, イテレータ, スライス, 乱数)
 - [x] [問題00 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q00.py)
@@ -21,7 +21,7 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [x] [問題09 : 2019/05/02](https://github.com/irtfrm/NLP100/blob/master/ch1/q09.py)
 
 ## [第2章](https://github.com/irtfrm/NLP100/tree/master/ch2)
-> UNIXコマンドの基礎:  
+> UNIXコマンドの基礎  
 > 研究やデータ分析において便利なUNIXツールを体験します．これらの再実装を通じて，プログラミング能力を高めつつ，既存のツールのエコシステムを体感します．  
 > (head, tail, cut, paste, split, sort, uniq, sed, tr, expand)
 - [x] [問題10 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q10.py)
@@ -36,6 +36,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題19
 
 ## 第3章
+> 正規表現  
+> Wikipediaのページのマークアップ記述に正規表現を適用することで，様々な情報・知識を取り出します．  
+> (正規表現, JSON, Wikipedia, InfoBox, ウェブサービス)
 - [ ] 問題20
 - [ ] 問題21
 - [ ] 問題22
@@ -48,6 +51,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題29
 
 ## 第4章
+> 形態素解析  
+> 夏目漱石の小説『吾輩は猫である』に形態素解析器MeCabを適用し，小説中の単語の統計を求めます．  
+> (形態素解析, MeCab, 品詞, 出現頻度, Zipfの法則, matplotlib, Gnuplot)
 - [ ] 問題30
 - [ ] 問題31
 - [ ] 問題32
@@ -60,6 +66,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題39
 
 ## 第5章
+> 係り受け解析  
+> 『吾輩は猫である』に係り受け解析器CaboChaを適用し，係り受け木の操作と統語的な分析を体験します．  
+> (クラス, 係り受け解析, CaboCha, 文節, 係り受け, 格, 機能動詞構文, 係り受けパス, Graphviz)
 - [ ] 問題40
 - [ ] 問題41
 - [ ] 問題42
@@ -72,6 +81,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題49
 
 ## 第6章
+> 英語テキストの処理  
+> Stanford Core NLPを用いた英語のテキスト処理を通じて，自然言語処理の様々な基盤技術を概観します．  
+> (Stanford Core NLP, ステミング, 品詞タグ付け, 固有表現抽出, 共参照解析, 係り受け解析, 句構造解析, S式)
 - [ ] 問題50
 - [ ] 問題51
 - [ ] 問題52
@@ -84,6 +96,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題59
 
 ## 第7章
+> データベース  
+> Key Value Store (KVS) やNoSQLによるデータベースの構築・検索を修得します．また，CGIを用いたデモ・システムを開発します．  
+> (LevelDB, MongoDB, JSON, インデックス, 整列, CGI, テンプレートエンジン)
 - [ ] 問題60
 - [ ] 問題61
 - [ ] 問題62
@@ -96,6 +111,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題69
 
 ## 第8章
+> 機械学習  
+> 評判分析器（ポジネガ分析器）を機械学習で構築します．さらに，手法の評価方法を学びます．  
+> (評判分析, ストップワード, 機械学習, 素性, ロジスティック回帰, 交差検定, 適合率, 再現率, scikit-learn, Classias)
 - [ ] 問題70
 - [ ] 問題71
 - [ ] 問題72
@@ -108,6 +126,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題79
 
 ## 第9章
+> ベクトル空間法 (I)  
+> 大規模なコーパスから単語文脈共起行列を求め，単語の意味を表すベクトルを学習します．その単語ベクトルを用い，単語の類似度やアナロジーを求めます．  
+> (ベクトル空間法, 分布仮説, 主成分分析, コサイン類似度, 加法構成性, 複合語, NumPy, redsvd)
 - [ ] 問題80
 - [ ] 問題81
 - [ ] 問題82
@@ -120,6 +141,9 @@ Python3で [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/
 - [ ] 問題89
 
 ## 第10章
+> ベクトル空間法 (II)  
+> word2vecを用いて単語の意味を表すベクトルを学習し，正解データを用いて評価します．さらに，クラスタリングやベクトルの可視化を体験します．  
+> (word2vec, scikit-learn, k-meansクラスタリング, 階層型クラスタリング, t-SNE)
 - [ ] 問題90
 - [ ] 問題91
 - [ ] 問題92
