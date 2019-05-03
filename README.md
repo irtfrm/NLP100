@@ -31,16 +31,16 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題14 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q14.py)
 - [x] [問題15 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q15.py)
 - [x] [問題16 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q16.py)
-- [ ] 問題17
-- [ ] 問題18
-- [ ] 問題19
+- [x] [問題17 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q17.py)
+- [x] [問題18 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q18.py)
+- [x] [問題19 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q19.py)
 
 ## 第3章
 > 正規表現  
 > Wikipediaのページのマークアップ記述に正規表現を適用することで，様々な情報・知識を取り出します．  
 > (正規表現, JSON, Wikipedia, InfoBox, ウェブサービス)
-- [ ] 問題20
-- [ ] 問題21
+- [x] [問題20 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q20.py)
+- [x] [問題21 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q21.py)
 - [ ] 問題22
 - [ ] 問題23
 - [ ] 問題24
