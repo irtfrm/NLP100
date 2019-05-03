@@ -41,10 +41,10 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 > (正規表現, JSON, Wikipedia, InfoBox, ウェブサービス)
 - [x] [問題20 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q20.py)
 - [x] [問題21 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q21.py)
-- [ ] 問題22
-- [ ] 問題23
-- [ ] 問題24
-- [ ] 問題25
+- [x] [問題22 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q22.py)
+- [x] [問題23 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q23.py)
+- [x] [問題24 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q24.py)
+- [x] [問題25 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q25.py)
 - [ ] 問題26
 - [ ] 問題27
 - [ ] 問題28
