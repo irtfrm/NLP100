@@ -35,7 +35,7 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題18 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q18.py)
 - [x] [問題19 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q19.py)
 
-## 第3章
+## [第3章](https://github.com/irtfrm/NLP100/tree/master/ch2)
 > 正規表現  
 > Wikipediaのページのマークアップ記述に正規表現を適用することで，様々な情報・知識を取り出します．  
 > (正規表現, JSON, Wikipedia, InfoBox, ウェブサービス)
