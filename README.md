@@ -35,7 +35,7 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題18 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q18.py)
 - [x] [問題19 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch2/q19.py)
 
-## [第3章](https://github.com/irtfrm/NLP100/tree/master/ch2)
+## [第3章](https://github.com/irtfrm/NLP100/tree/master/ch3)
 > 正規表現  
 > Wikipediaのページのマークアップ記述に正規表現を適用することで，様々な情報・知識を取り出します．  
 > (正規表現, JSON, Wikipedia, InfoBox, ウェブサービス)
@@ -45,10 +45,10 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題23 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q23.py)
 - [x] [問題24 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q24.py)
 - [x] [問題25 : 2019/05/03](https://github.com/irtfrm/NLP100/blob/master/ch3/q25.py)
-- [ ] 問題26
-- [ ] 問題27
-- [ ] 問題28
-- [ ] 問題29
+- [x] [問題26 : 2019/05/04](https://github.com/irtfrm/NLP100/blob/master/ch3/q26-28.py)
+- [x] [問題27 : 2019/05/04](https://github.com/irtfrm/NLP100/blob/master/ch3/q26-28.py)
+- [x] [問題28 : 2019/05/04](https://github.com/irtfrm/NLP100/blob/master/ch3/q26-28.py)
+- [x] [問題29 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch3/q29.py)
 
 ## 第4章
 > 形態素解析  
