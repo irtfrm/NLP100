@@ -54,11 +54,11 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 > 形態素解析  
 > 夏目漱石の小説『吾輩は猫である』に形態素解析器MeCabを適用し，小説中の単語の統計を求めます．  
 > (形態素解析, MeCab, 品詞, 出現頻度, Zipfの法則, matplotlib, Gnuplot)
-- [ ] 問題30
-- [ ] 問題31
-- [ ] 問題32
-- [ ] 問題33
-- [ ] 問題34
+- [x] [問題30 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q30.py)
+- [x] [問題31 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q31-32.py)
+- [x] [問題32 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q31-32.py)
+- [x] [問題33 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q33.py)
+- [x] [問題34 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q34.py)
 - [ ] 問題35
 - [ ] 問題36
 - [ ] 問題37
