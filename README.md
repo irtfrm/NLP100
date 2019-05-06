@@ -50,7 +50,7 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題28 : 2019/05/04](https://github.com/irtfrm/NLP100/blob/master/ch3/q26-28.py)
 - [x] [問題29 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch3/q29.py)
 
-## 第4章
+## [第4章](https://github.com/irtfrm/NLP100/tree/master/ch4)
 > 形態素解析  
 > 夏目漱石の小説『吾輩は猫である』に形態素解析器MeCabを適用し，小説中の単語の統計を求めます．  
 > (形態素解析, MeCab, 品詞, 出現頻度, Zipfの法則, matplotlib, Gnuplot)
@@ -59,13 +59,13 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題32 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q31-32.py)
 - [x] [問題33 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q33.py)
 - [x] [問題34 : 2019/05/05](https://github.com/irtfrm/NLP100/blob/master/ch4/q34.py)
-- [ ] 問題35
-- [ ] 問題36
-- [ ] 問題37
-- [ ] 問題38
-- [ ] 問題39
+- [x] [問題35 : 2019/05/06](https://github.com/irtfrm/NLP100/blob/master/ch4/q35.py)
+- [x] [問題36 : 2019/05/06](https://github.com/irtfrm/NLP100/blob/master/ch4/q36.py)
+- [x] [問題37 : 2019/05/06](https://github.com/irtfrm/NLP100/blob/master/ch4/q37.py)
+- [x] [問題38 : 2019/05/06](https://github.com/irtfrm/NLP100/blob/master/ch4/q38.py)
+- [x] [問題39 : 2019/05/06](https://github.com/irtfrm/NLP100/blob/master/ch4/q39.py)
 
-## 第5章
+## [第5章](https://github.com/irtfrm/NLP100/tree/master/ch5)
 > 係り受け解析  
 > 『吾輩は猫である』に係り受け解析器CaboChaを適用し，係り受け木の操作と統語的な分析を体験します．  
 > (クラス, 係り受け解析, CaboCha, 文節, 係り受け, 格, 機能動詞構文, 係り受けパス, Graphviz)
