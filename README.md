@@ -2,6 +2,8 @@
 
 Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)に挑戦中
 
+![q44](/ch5/q44.png)
+
 ### 目次
 [第1章](/README.md#第1章)・[第2章](/README.md#第2章)・[第3章](/README.md#第3章)・[第4章](/README.md#第4章)・[第5章](/README.md#第5章)・[第6章](/README.md#第6章)・[第7章](/README.md#第7章)・[第8章](/README.md#第8章)・[第9章](/README.md#第9章)・[第10章](/README.md#第10章)
 
@@ -73,7 +75,7 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題41 : 2019/05/07](https://github.com/irtfrm/NLP100/blob/master/ch5/q41.py)
 - [x] [問題42 : 2019/05/07](https://github.com/irtfrm/NLP100/blob/master/ch5/q42.py)
 - [x] [問題43 : 2019/05/07](https://github.com/irtfrm/NLP100/blob/master/ch5/q43.py)
-- [ ] 問題44
+- [x] [問題44 : 2019/05/08](https://github.com/irtfrm/NLP100/blob/master/ch5/q44.py)
 - [ ] 問題45
 - [ ] 問題46
 - [ ] 問題47
