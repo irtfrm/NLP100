@@ -69,10 +69,10 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 > 係り受け解析  
 > 『吾輩は猫である』に係り受け解析器CaboChaを適用し，係り受け木の操作と統語的な分析を体験します．  
 > (クラス, 係り受け解析, CaboCha, 文節, 係り受け, 格, 機能動詞構文, 係り受けパス, Graphviz)
-- [ ] 問題40
-- [ ] 問題41
-- [ ] 問題42
-- [ ] 問題43
+- [x] [問題40 : 2019/05/07](https://github.com/irtfrm/NLP100/blob/master/ch5/q40.py)
+- [x] [問題41 : 2019/05/07](https://github.com/irtfrm/NLP100/blob/master/ch5/q41.py)
+- [x] [問題42 : 2019/05/07](https://github.com/irtfrm/NLP100/blob/master/ch5/q42.py)
+- [x] [問題43 : 2019/05/07](https://github.com/irtfrm/NLP100/blob/master/ch5/q43.py)
 - [ ] 問題44
 - [ ] 問題45
 - [ ] 問題46
