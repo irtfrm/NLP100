@@ -86,9 +86,9 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 > 英語テキストの処理  
 > Stanford Core NLPを用いた英語のテキスト処理を通じて，自然言語処理の様々な基盤技術を概観します．  
 > (Stanford Core NLP, ステミング, 品詞タグ付け, 固有表現抽出, 共参照解析, 係り受け解析, 句構造解析, S式)
-- [ ] 問題50
-- [ ] 問題51
-- [ ] 問題52
+- [x] [問題50 : 2019/05/12](https://github.com/irtfrm/NLP100/blob/master/ch6/q50.py)
+- [x] [問題51 : 2019/05/12](https://github.com/irtfrm/NLP100/blob/master/ch6/q51.py)
+- [x] [問題52 : 2019/05/12](https://github.com/irtfrm/NLP100/blob/master/ch6/q52.py)
 - [ ] 問題53
 - [ ] 問題54
 - [ ] 問題55
