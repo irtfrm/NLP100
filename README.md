@@ -92,7 +92,7 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題53 : 2019/05/13](https://github.com/irtfrm/NLP100/blob/master/ch6/q53.py)
 - [x] [問題54 : 2019/05/13](https://github.com/irtfrm/NLP100/blob/master/ch6/q54.py)
 - [x] [問題55 : 2019/05/13](https://github.com/irtfrm/NLP100/blob/master/ch6/q55.py)
-- [ ] 問題56
+- [x] [問題56 : 2019/05/14](https://github.com/irtfrm/NLP100/blob/master/ch6/q56.py)
 - [ ] 問題57
 - [ ] 問題58
 - [ ] 問題59
