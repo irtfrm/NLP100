@@ -95,7 +95,7 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題56 : 2019/05/14](https://github.com/irtfrm/NLP100/blob/master/ch6/q56.py)
 - [x] [問題57 : 2019/05/17](https://github.com/irtfrm/NLP100/blob/master/ch6/q57.py)
 - [x] [問題58 : 2019/05/17](https://github.com/irtfrm/NLP100/blob/master/ch6/q58.py)
-- [ ] 問題59
+- [x] [問題59 : 2019/05/18](https://github.com/irtfrm/NLP100/blob/master/ch6/q59.py)
 
 ## 第7章
 > データベース  
