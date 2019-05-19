@@ -97,13 +97,13 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題58 : 2019/05/17](https://github.com/irtfrm/NLP100/blob/master/ch6/q58.py)
 - [x] [問題59 : 2019/05/18](https://github.com/irtfrm/NLP100/blob/master/ch6/q59.py)
 
-## 第7章
+## [第7章](https://github.com/irtfrm/NLP100/tree/master/ch7)
 > データベース  
 > Key Value Store (KVS) やNoSQLによるデータベースの構築・検索を修得します．また，CGIを用いたデモ・システムを開発します．  
 > (LevelDB, MongoDB, JSON, インデックス, 整列, CGI, テンプレートエンジン)
-- [ ] 問題60
-- [ ] 問題61
-- [ ] 問題62
+- [x] [問題60 : 2019/05/20](https://github.com/irtfrm/NLP100/blob/master/ch7/q60.py)
+- [x] [問題61 : 2019/05/20](https://github.com/irtfrm/NLP100/blob/master/ch7/q61.py)
+- [x] [問題62 : 2019/05/20](https://github.com/irtfrm/NLP100/blob/master/ch7/q62.py)
 - [ ] 問題63
 - [ ] 問題64
 - [ ] 問題65

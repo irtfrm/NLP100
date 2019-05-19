@@ -1,0 +1,4 @@
+import redis
+
+redis = redis.Redis(host='localhost', port=6379, db=0)
+print(redis.get('山口百恵'))
