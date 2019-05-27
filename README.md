@@ -108,8 +108,8 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題64 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q64.py)
 - [x] [問題65 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q65.py)
 - [x] [問題66 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q66.py)
-- [ ] 問題67
-- [ ] 問題68
+- [x] [問題67 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q67.py)
+- [x] [問題68 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q68.py)
 - [ ] 問題69
 
 ## 第8章
