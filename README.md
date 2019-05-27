@@ -104,10 +104,10 @@ Python3で[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 - [x] [問題60 : 2019/05/20](https://github.com/irtfrm/NLP100/blob/master/ch7/q60.py)
 - [x] [問題61 : 2019/05/20](https://github.com/irtfrm/NLP100/blob/master/ch7/q61.py)
 - [x] [問題62 : 2019/05/20](https://github.com/irtfrm/NLP100/blob/master/ch7/q62.py)
-- [x] [問題63 : 2019/05/22](https://github.com/irtfrm/NLP100/blob/master/ch7/q63.py)
-- [ ] 問題64
-- [ ] 問題65
-- [ ] 問題66
+- [x] [問題63 : 2019/05/22](https://github.com/irtfrm/NLP100/blob/master/ch7/q63a.py)
+- [x] [問題64 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q64.py)
+- [x] [問題65 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q65.py)
+- [x] [問題66 : 2019/05/27](https://github.com/irtfrm/NLP100/blob/master/ch7/q66.py)
 - [ ] 問題67
 - [ ] 問題68
 - [ ] 問題69
